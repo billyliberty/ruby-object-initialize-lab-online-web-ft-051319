@@ -7,7 +7,7 @@ def initialize(name, breed="Mut")
     @name = name
   end
 
-   def name 
+   def name
     @name
   end
 
