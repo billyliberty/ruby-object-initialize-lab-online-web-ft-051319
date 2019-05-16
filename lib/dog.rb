@@ -1,11 +1,9 @@
 class Dog
 
-def initialize(name, breed="Mutt")
-  @name = name
-  @breed = breed
-end
+  def initialize(name)
+    @name = name
+  end
 
-attr_accessor :name
-attr_accessor :breed
+  attr_accessor :name
 
 end
