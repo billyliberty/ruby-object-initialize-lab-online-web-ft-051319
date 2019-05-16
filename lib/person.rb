@@ -4,5 +4,3 @@ class Person
   end
   attr_accessor :name
 end
-
-
